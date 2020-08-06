@@ -1,4 +1,4 @@
-#Statics and Dynamics
+# Statics and Dynamics
 
 It is a Pwn challenge where the binary is not linked to any external library, that's why everything needed is inside the binary.
 
